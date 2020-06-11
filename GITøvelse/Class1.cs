@@ -7,6 +7,7 @@ namespace GITøvelse
     class Butikk
 
     {
+        int price = Console.ReadLine();
 
     }
 }
