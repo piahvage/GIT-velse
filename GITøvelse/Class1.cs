@@ -9,5 +9,7 @@ namespace GITøvelse
     {
         int price = Console.ReadLine();
 
+        yoyoyo, husker du hvordan du gjør dette nå da?
+
     }
 }
